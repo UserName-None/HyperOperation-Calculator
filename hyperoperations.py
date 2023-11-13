@@ -1,8 +1,3 @@
-import numpy as np
-import time
-
-
-
 while True:
     selected_number = input("Enter a number: 1=add, 2=multiply, 3=exponentiation,4=tetration, 5=pentation, 6=hexation: ")
     if selected_number in ['1', '2', '3', '4', '5', '6']:
